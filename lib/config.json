@@ -1,16 +1,16 @@
 {
   "thumb": "https://telegra.ph/file/f9b2ed3ff30d538f086ae.jpg",
-  "namebot": "BOTCAHX",
-  "botNumber": "6282122379874@s.whatsapp.net",
-  "owner": ["6285798267620@s.whatsapp.net"],
-  "instagram": "https://instagram.com/prm2.0",
-  "author": "BOTCAHX",
+  "namebot": "REX-MD",
+  "botNumber": "6281947707409@s.whatsapp.net",
+  "owner": ["6281947707409@s.whatsapp.net"],
+  "instagram": "https://instagram.com/khamid_serba_ada",
+  "author": "REX-MD",
   "session": "senku-md",
-  "email": "tioclkp02@gmail.com",
+  "email": "@gmail.com",
   "self": false,
   "packInfo":{
-    "packname": "botcahx",
-    "author": "botwa"
+    "packname": "REX-MD",
+    "author": "REX-MD"
   },
   "ignore": {
 		"directory": ["umum"]
